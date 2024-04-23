@@ -1,0 +1,14 @@
+@charset UTF-8;
+
+/* HTML Style */
+html {
+	background: blue;
+	}
+/* Image Style */
+img {
+	display: block;
+	float: right;
+	padding: 10px;
+	border: solid black 3px;
+	width: 50%;
+	}
